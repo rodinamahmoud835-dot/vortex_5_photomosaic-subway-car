@@ -18,3 +18,6 @@ edge colors and orientations. The final result is a single combined photomosaic 
 - Cluster edge colors using K-means to obtain discrete color IDs\
 - Search for a valid arrangement where adjacent edges match\
 - Assemble and display the final photomosaic}
+
+  video:
+  https://drive.google.com/file/d/15rB1Sd-Bb4KCPY_yab2SHsIghNFjy5-S/view?usp=sharing
